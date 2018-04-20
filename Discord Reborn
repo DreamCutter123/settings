@@ -1094,3 +1094,15 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .scroller.guilds, .theme-dark .guilds-wrapper{height: auto !important;}
 
 .guilds-wrapper .guilds{padding: 0 0 160px 14px !important;}
+
+.avatar-large[style*="252398619452375040"] ~ .comment .username-wrapper::after {
+    content: 'D1g1tal';
+    font-size: 14px;
+    background-color: rgb(0,128,128);
+    margin-left: 6px;
+    border-radius: 3px;
+    padding: 1px 4px 2px 4px;
+    font-weight: 500;
+    text-shadow: 1px 1px 1px #000;
+    color: #fff;
+}
