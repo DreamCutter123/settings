@@ -13,7 +13,7 @@
 .avatar-large[style*="292551635991789568"] ~ .comment .username-wrapper::after {
     content: 'D1g1tal';
     font-size: 14px;
-    background-color: rgb(0,0,0);
+    background-color: rgb(0,1,0);
     margin-left: 6px;
     border-radius: 3px;
     padding: 1px 4px 2px 4px;
