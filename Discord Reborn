@@ -1,5 +1,5 @@
 /* IMPORT CSS FROM GITHUB */
-@import url("https://rawgit.com/squee666/Discord-Themes/master/css/Quiet.css");
+@import url("https://rawgit.com/DreamCutter123/settings/master/Discord%20Reborn");
 
 :root { 
   --theme-name: "Reborn";
